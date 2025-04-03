@@ -1,4 +1,3 @@
-import Image from "next/image";
 import styles from "./page.module.scss";
 import { client } from "@/sanity/client";
 import { SanityDocument } from "next-sanity";
